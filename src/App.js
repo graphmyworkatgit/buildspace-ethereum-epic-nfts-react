@@ -6,9 +6,10 @@ import { ethers } from "ethers";
 import myEpicNft from "./utils/MyEpicNFT.json";
 
 // Constants
-const TWITTER_HANDLE = "_buildspace";
+const TWITTER_HANDLE = "adrianisawank";
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
-const OPENSEA_LINK = "";
+const OPENSEA_LINK =
+  "https://testnets.opensea.io/collection/squarenft-9rzsujq18c";
 const TOTAL_MINT_COUNT = 50;
 
 const CONTRACT_ADDRESS = "0xA99f9f8BEb591cE4b1622B465e1Ea55f94F201EB";

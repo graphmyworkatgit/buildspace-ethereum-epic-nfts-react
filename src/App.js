@@ -80,7 +80,7 @@ const App = () => {
    * Call our contract to mint an NFT
    */
   const askContractToMintNft = async () => {
-    const CONTRACT_ADDRESS = "0x7d1559948e1B5Ef71b41b8A47761D0fE1dac4D81";
+    const CONTRACT_ADDRESS = "0xA99f9f8BEb591cE4b1622B465e1Ea55f94F201EB";
 
     try {
       const { ethereum } = window;
